@@ -1,2 +1,2 @@
-# Detektor_Plagiat-w
+# Detektor_Plagiat
 Odporny Detektor Plagiatów bazujący na Moderate Deviations
