@@ -18,7 +18,7 @@ Task 2: Implementacja Metryki Moderate Deviations (Osoba 2)
 
 Task 3: Ewaluacja i Raport (Osoba 3)
 
-    Testowanie na parafrازach i parafrazach ze zmienioną kolejnością słów
+    Testowanie na parafrjach i parafrazach ze zmienioną kolejnością słów
     Benchmark: Moderate Deviations vs metryk klasycznych (precision, recall, F1)
     Raport ewaluacyjny z wizualizacjami
     Wnioski i rekomendacje
