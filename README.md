@@ -1,4 +1,4 @@
-# Detektor_Plagiat
+# Detektor_Plagiatow
 Odporny Detektor Plagiatów bazujący na Moderate Deviations
 Task 1: Przygotowanie Danych i EDA (Osoba 1)
 
